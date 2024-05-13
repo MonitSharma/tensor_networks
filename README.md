@@ -1,1 +1,2 @@
-# tensor_networks
+# Getting Started with Tensor Networks
+
